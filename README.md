@@ -1,6 +1,6 @@
 <!--![Image](assets/)-->
 
-![Python version](https://img.shields.io/badge/Python%20version-3.11-lightgrey)
+![Python version](https://img.shields.io/badge/Python%20version-3.13-lightgrey)
 ![GitHub last commit](https://img.shields.io/github/last-commit/samithcsachi/grid-forecast)
 ![GitHub repo size](https://img.shields.io/github/repo-size/samithcsachi/grid-forecast)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -9,21 +9,22 @@
 Badge [source](https://shields.io/)
 
 # GridForecast: Electricity Demand Predictor
+
 GridForecast is an end-to-end electricity demand forecasting system built on real-time ENTSO-E operational data, combining time series analytics (ARIMA, SARIMA, Prophet, LSTM), ensemble modeling, automated monitoring, and continuous retraining to enable data-driven grid operations and energy trading decisions.
 
-From insights derived from temporal demand patterns and renewable energy variability, actionable forecasting models were developed and deployed via an interactive web application. The application provides a dashboard interface for grid operators and energy traders to 
+From insights derived from temporal demand patterns and renewable energy variability, actionable forecasting models were developed and deployed via an interactive web application. The application provides a dashboard interface for grid operators and energy traders to
 visualize 24-hour demand predictions, confidence intervals, and real-time model performance to support operational planning and risk mitigation.
 
+Hugging Face Spaces Streamlit App link :
 
-Hugging Face Spaces Streamlit App link : 
+Docker Hub Link:
 
-Docker Hub Link: 
+Streamlit link:
 
-Streamlit link: 
+Articles -
 
-Articles - 
 - Medium:
- 
+
 ## Authors
 
 - [Samith Chimminiyan](https://www.github.com/samithcsachi)
@@ -43,6 +44,3 @@ Articles -
 - [Contribution](#contribution)
 - [Repository structure](#repository-structure)
 - [License](#license)
-
-
-
