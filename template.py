@@ -31,7 +31,8 @@ list_of_files = [
     # HELPER MODULES 
 
     f"SRC/{project_name}/data_ingestion/__init__.py",
-    f"SRC/{project_name}/data_ingestion/fetch.py",          
+    f"SRC/{project_name}/data_ingestion/fetch.py", 
+    f"SRC/{project_name}/data_ingestion/ingest_pipeline.py",         
 
     f"SRC/{project_name}/validation/__init__.py",
     f"SRC/{project_name}/validation/validate_schema.py",     
