@@ -212,3 +212,6 @@ __marimo__/
 
 # Ignore all files in a folder called artifacts
 artifacts/
+
+# Ignore all files in a folder called .github/workflows
+.github/workflows/
